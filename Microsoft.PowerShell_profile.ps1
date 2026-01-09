@@ -2,6 +2,9 @@
 # PowerShell プロファイル
 # ============================================================================
 
+# プロファイル読み込み時間のメッセージを非表示にする
+$PSDefaultParameterValues['Out-Default:InformationAction'] = 'SilentlyContinue'
+
 # ----------------------------------------------------------------------------
 # カスタムエイリアス・関数
 # install: https://github.com/x-motemen/ghq
