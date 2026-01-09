@@ -11,7 +11,7 @@ WezTermのconfigは [mozumasu様の記事](https://zenn.dev/mozumasu/articles/mo
 - `./Microsoft.PowerShell_profile.ps1` - PowerShell 7のカスタムプロファイル設定
 
 #### 必要なツール
-- [WezTerm](https://wezterm.org/install/windows.html)
+- [WezTerm](https://wezterm.org/install/windows.html) - Terminal Emulator
 - [ghq](https://github.com/x-motemen/ghq) - Gitリポジトリ管理ツール
 - [peco](https://github.com/peco/peco) - インタラクティブなフィルタリングツール
 - [Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - PowerShellモジュール
