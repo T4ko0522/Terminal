@@ -44,7 +44,7 @@ return {
     },
 
     -- フォントサイズ切替
-    { key = "+", mods = "ALT", action = act.IncreaseFontSize },
+    { key = ";", mods = "ALT", action = act.IncreaseFontSize },
     { key = "-", mods = "ALT", action = act.DecreaseFontSize },
     -- フォントサイズのリセット
     { key = "0", mods = "ALT", action = act.ResetFontSize },
